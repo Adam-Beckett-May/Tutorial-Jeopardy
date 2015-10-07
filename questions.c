@@ -23,6 +23,7 @@ void display_categories(void)
 }
 
 // Displays the question for the category and dollar value
+//test
 void display_question(char *category, int value)
 {
 
